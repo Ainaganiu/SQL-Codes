@@ -1,0 +1,6 @@
+-- Order by another Column
+SELECT CustomerKey
+
+FROM FactInternetSales
+
+ORDER BY SalesAmount
